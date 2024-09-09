@@ -1,6 +1,4 @@
-os-sys
-time
-speechrecognition
+Speechrecognition
 openai
 pygame
 keyboard
