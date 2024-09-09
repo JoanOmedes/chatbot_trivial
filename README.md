@@ -35,9 +35,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
     El archivo `requirements.txt` incluye las siguientes bibliotecas:
 
     ```plaintext
-    os-sys
-    time
-    speechrecognition
+    Speechrecognition
     openai
     pygame
     keyboard
